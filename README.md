@@ -1,4 +1,4 @@
-# Mahmoud Salem 👋  
+# Mahmoud Salem  
 
 🎬 **Video Editor | Content Creator**  
 📹 Creating engaging videos on **YouTube, Facebook & Instagram**  
