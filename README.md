@@ -1,47 +1,24 @@
-# I'm Mahmoud Salem 👋  
+# Mahmoud Salem 👋  
 
 🎬 **Video Editor | Content Creator**  
 📹 Creating engaging videos on **YouTube, Facebook & Instagram**  
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXX?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@editorfx1.1?si=GdpQP8xRer2qq9B2)
-[![Facebook Page](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/share/19hmUzQC5T/?mibextid=wwXIfr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/mahmoud_editor_fx?igsh=MXNpZG84ZDc1eGh5aA%3D%3D&utm_source=qr)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/201555233082)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Editorfx1.1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19hmUzQC5T/?mibextid=wwXIfr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahmoud_editor_fx)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201555233082)
 
 ---
 
-## About Me  
+## About Me
 
 - 🎥 Passionate about **video editing & storytelling**  
-- 🌱 Currently improving my **motion graphics & After Effects** skills  
+- ✨ Currently improving my **motion graphics & After Effects** skills  
 - 🤝 Open to collaborations with other creators  
-- 🥅 **2025 Goals**: Grow my YouTube channel & create impactful content  
-- ⚡ Fun fact: I can spend hours perfecting a 10-second clip 😅  
+- 🎯 **2025 Goals**: Grow my YouTube channel & create impactful content  
 
 ---
 
-### 📺 Latest YouTube Videos  
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+## 📊 GitHub Stats
 
-➡️ [Visit my YouTube Channel](https://youtube.com/@editorfx1.1?si=GdpQP8xRer2qq9B2)  
-
----
-
-### 🌐 Connect with Me  
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@editorfx1.1?si=GdpQP8xRer2qq9B2)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/19hmUzQC5T/?mibextid=wwXIfr)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mahmoud_editor_fx?igsh=MXNpZG84ZDc1eGh5aA%3D%3D&utm_source=qr)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201555233082)  
-
-📞 Phone: **01555233082**  
-
----
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-
-  <img align="left" alt="Mahmoud's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=msalembusiness-editor&show_icons=true&hide_border=false&title_color=FF0000&icon_color=25D366&bg_color=0d1117&text_color=ffffff&border_color=30363d)
