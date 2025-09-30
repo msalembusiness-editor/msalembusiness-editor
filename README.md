@@ -12,10 +12,9 @@
 
 ## About Me
 
-- 🎥 Passionate about **video editing & storytelling**  
-- ✨ Currently improving my **motion graphics & After Effects** skills  
-- 🤝 Open to collaborations with other creators  
-- 🎯 **2025 Goals**: Grow my YouTube channel & create impactful content  
+🎥 Passionate about **video editing & motion graphics with After Effects**  
+✨ Skilled in creating smooth transitions, effects, and cinematic edits  
+🤝 Always open to collaborate with creators and brands  
 
 ---
 
